@@ -136,19 +136,19 @@ This lab reinforced practical troubleshooting methodologies used in real-world I
 # Screenshots
 
 ## DNS Failure
-![DNS Failure](screenshots/dns-failure-troubleshooting.png)
+![DNS Failure](screenshots/04-dns-failure-proof.png)
 
 ## DHCP Failure / APIPA Address
-![DHCP Failure](screenshots/dhcp-renew-failure.png)
+![DHCP Failure](screenshots/07-dhcp-failure-connecting.png)
 
 ## Network Restored
-![Network Restored](screenshots/network-restored-successfully.png)
+![Network Restored](screenshots/09-network-restored-successfully.png)
 
 ## NSLOOKUP Test
 ![NSLOOKUP](screenshots/nslookup-success.png)
 
 ## TRACERT Test
-![TRACERT](screenshots/tracert-google.png)
+![TRACERT](screenshots/10-tracert-google.png)
 
 ## Domain Controller Connectivity
-![Domain Connectivity](screenshots/domain-controller-ping.png)
+![Domain Connectivity](screenshots/11-domain-controller-ping.png)
