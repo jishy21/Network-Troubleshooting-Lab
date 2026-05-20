@@ -136,7 +136,7 @@ This lab reinforced practical troubleshooting methodologies used in real-world I
 # Screenshots
 
 ## DNS Failure
-![DNS Failure](screenshots/04-dns-failure-proof.png)
+![DNS Failure](04-dns-failure-proof.png)
 
 ## DHCP Failure / APIPA Address
 ![DHCP Failure](screenshots/07-dhcp-failure-connecting.png)
