@@ -136,34 +136,34 @@ This lab reinforced practical troubleshooting methodologies used in real-world I
 # Screenshots
 
 ## Successful Connectivity Before DNS Failure
-![Successful Ping](screenshots/02-successful-ping-before-break.png)
+![Successful Ping](screenshot/02-successful-ping-before-break.png)
 
 ## Incorrect DNS Configuration
-![Wrong DNS](screenshots/03-wrong-dns-setting.png)
+![Wrong DNS](screenshot/03-wrong-dns-setting.png)
 
 ## DNS Failure Troubleshooting
-![DNS Failure](screenshots/04-dns-failure-proof.png)
+![DNS Failure](screenshot/04-dns-failure-proof.png)
 
 ## Corrected DNS Settings
-![DNS Fixed](screenshots/05-dns-fixed-setting.png)
+![DNS Fixed](screenshot/05-dns-fixed-setting.png)
 
 ## DNS Resolution Restored
-![DNS Working](screenshots/06-dns-fixed-successful-ping.png)
+![DNS Working](screenshot/06-dns-fixed-successful-ping.png)
 
 ## DHCP Release
-![DHCP Release](screenshots/07-dhcp-release.png)
+![DHCP Release](screenshot/07-dhcp-release.png)
 
 ## DHCP Failure / APIPA Address
-![DHCP Failure](screenshots/08-dhcp-failure-connecting.png)
+![DHCP Failure](screenshot/08-dhcp-failure-connecting.png)
 
 ## Network Connectivity Restored
-![Network Restored](screenshots/09-network-restored-successfully.png)
+![Network Restored](screenshot/09-network-restored-successfully.png)
 
 ## Traceroute Diagnostic Test
-![TRACERT](screenshots/10-tracert-google.png)
+![TRACERT](screenshot/10-tracert-google.png)
 
 ## Domain Controller Connectivity Test
-![Domain Controller Ping](screenshots/11-domain controller-ping.png)
+![Domain Controller Ping](screenshot/11-domain%20controller-ping.png)
 
 ## Successful NSLOOKUP Test
-![NSLOOKUP](screenshots/nslookup-success.png)
+![NSLOOKUP](screenshot/nslookup-success.png)
